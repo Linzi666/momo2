@@ -22,10 +22,10 @@ const MMSLS = [
  */
 const MMSLS = [
     
-    "https://www.maimemo.com/share/page?uid=24142114&pid=19245c0a69bc448aeea3588fb886e008&tid=e12e30d5e44b1b22180c83d238240348",
-    "https://www.maimemo.com/share/page?uid=24142114&pid=19245c0a69bc448aeea3588fb886e008&tid=e12e30d5e44b1b22180c83d238240348",
-    "https://www.maimemo.com/share/page?uid=24142114&pid=19245c0a69bc448aeea3588fb886e008&tid=e12e30d5e44b1b22180c83d238240348",
-    "https://www.maimemo.com/share/page?uid=24142114&pid=19245c0a69bc448aeea3588fb886e008&tid=e12e30d5e44b1b22180c83d238240348",
+    "https://www.maimemo.com/share/page?uid=24142114&pid=7b5d2df46674e0e84550d4b2c3a9bb76&tid=a4487102092e7fcd51ba661c638cf690",
+    "https://www.maimemo.com/share/page?uid=24142114&pid=7b5d2df46674e0e84550d4b2c3a9bb76&tid=a4487102092e7fcd51ba661c638cf690",
+    "https://www.maimemo.com/share/page?uid=24142114&pid=7b5d2df46674e0e84550d4b2c3a9bb76&tid=a4487102092e7fcd51ba661c638cf690",
+    "https://www.maimemo.com/share/page?uid=24142114&pid=7b5d2df46674e0e84550d4b2c3a9bb76&tid=a4487102092e7fcd51ba661c638cf690",
   ]
   /**
    * 生成随机数字
