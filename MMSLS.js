@@ -6,10 +6,10 @@
 
 const MMSLS = [
     
-    "https://www.maimemo.com/share/page?uid=24142114&pid=afa31488bb3cbb430d648be0fc55800f&tid=60f82d026e63fcf6fdbeff19b3a3d0c3",
-    "https://www.maimemo.com/share/page?uid=24142114&pid=afa31488bb3cbb430d648be0fc55800f&tid=60f82d026e63fcf6fdbeff19b3a3d0c3",
-    "https://www.maimemo.com/share/page?uid=24142114&pid=afa31488bb3cbb430d648be0fc55800f&tid=60f82d026e63fcf6fdbeff19b3a3d0c3",
-    "https://www.maimemo.com/share/page?uid=24142114&pid=afa31488bb3cbb430d648be0fc55800f&tid=60f82d026e63fcf6fdbeff19b3a3d0c3",
+    "https://www.maimemo.com/share/page?uid=24142114&pid=ccb12c4f335b61ec57aec0fb944715a6&tid=d41a820f905f28b67b38d5df65e52cee",
+    "https://www.maimemo.com/share/page?uid=24142114&pid=ccb12c4f335b61ec57aec0fb944715a6&tid=d41a820f905f28b67b38d5df65e52cee",
+    "https://www.maimemo.com/share/page?uid=24142114&pid=ccb12c4f335b61ec57aec0fb944715a6&tid=d41a820f905f28b67b38d5df65e52cee",
+    "https://www.maimemo.com/share/page?uid=24142114&pid=ccb12c4f335b61ec57aec0fb944715a6&tid=d41a820f905f28b67b38d5df65e52cee",
 
   ]
 =====================以上为范例！=====================
@@ -22,10 +22,10 @@ const MMSLS = [
  */
 const MMSLS = [
     
-    "https://www.maimemo.com/share/page?uid=24142114&pid=7b5d2df46674e0e84550d4b2c3a9bb76&tid=a4487102092e7fcd51ba661c638cf690",
-    "https://www.maimemo.com/share/page?uid=24142114&pid=7b5d2df46674e0e84550d4b2c3a9bb76&tid=a4487102092e7fcd51ba661c638cf690",
-    "https://www.maimemo.com/share/page?uid=24142114&pid=7b5d2df46674e0e84550d4b2c3a9bb76&tid=a4487102092e7fcd51ba661c638cf690",
-    "https://www.maimemo.com/share/page?uid=24142114&pid=7b5d2df46674e0e84550d4b2c3a9bb76&tid=a4487102092e7fcd51ba661c638cf690",
+    "https://www.maimemo.com/share/page?uid=24142114&pid=ccb12c4f335b61ec57aec0fb944715a6&tid=d41a820f905f28b67b38d5df65e52cee",
+    "https://www.maimemo.com/share/page?uid=24142114&pid=ccb12c4f335b61ec57aec0fb944715a6&tid=d41a820f905f28b67b38d5df65e52cee",
+    "https://www.maimemo.com/share/page?uid=24142114&pid=ccb12c4f335b61ec57aec0fb944715a6&tid=d41a820f905f28b67b38d5df65e52cee",
+    "https://www.maimemo.com/share/page?uid=24142114&pid=ccb12c4f335b61ec57aec0fb944715a6&tid=d41a820f905f28b67b38d5df65e52cee",
   ]
   /**
    * 生成随机数字
